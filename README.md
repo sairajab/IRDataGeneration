@@ -4,7 +4,7 @@ This repository provides a pipeline to use **SpliceGrapher** to generate Intron 
 
 ## Setup Instructions
 
-### 1. Install SpliceGrapher (version 2.7.0)
+### 1. Install SpliceGrapher (version 2.7.0) (You will need python2.7 to run this repo)
 
 - Download from the official website:  
   [https://splicegrapher.sourceforge.net/index.html](https://splicegrapher.sourceforge.net/index.html)
