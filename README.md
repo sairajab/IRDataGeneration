@@ -1,6 +1,6 @@
 # IRDataGeneration
 
-This repository provides a pipeline to use **SpliceGrapher** and **iDiffIR** to generate Intron Retention (IR) data.
+This repository provides a pipeline to use **SpliceGrapher** to generate Intron Retention (IR) data.
 
 ## Setup Instructions
 
@@ -31,7 +31,6 @@ This command generates a ```.txt``` file listing all IR events.
 
 ### 5. Get All Introns in the Genome
 
-Get All Introns for the Genome
 Use this repository to generate a list of all introns: https://github.com/sairajab/RetrieveIntrons
 
 ### 6. Get Retained Introns
