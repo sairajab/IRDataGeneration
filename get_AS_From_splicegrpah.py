@@ -40,7 +40,7 @@ for gfile in gfiles:
 with open ('AS_Landscape_Dict_'+event_type+'.pickle','wb') as f:
         pickle.dump(sample,f)
 
-np.savetxt(event_type+f'_events.txt',final_list,delimiter='\t',fmt='%s')
+np.savetxt(event_type+'_events.txt',final_list,delimiter='\t',fmt='%s')
 
 #-----------------------------Now Extracting Information------------------------------#
 #--------Top Level (All samples and replicates)------#
